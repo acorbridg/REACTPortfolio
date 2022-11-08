@@ -8,5 +8,5 @@ This project is a final portfolio that contains my resume, contact form, portfol
 * A footer component must render on multiple pages
 * A single project component is used multiple times in the Portfolio section.
 
-Github URL:
+Github URL: https://github.com/acorbridg/REACTPortfolio
 Website URL: 
