@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.a64e0a0b.css",
-    "main.js": "/static/js/main.8541a50f.js",
-    "static/js/787.541dd9f5.chunk.js": "/static/js/787.541dd9f5.chunk.js",
-    "static/media/Coyote.jpg": "/static/media/Coyote.6ea0b907b91295033a99.jpg",
-    "static/media/QuickByte.png": "/static/media/QuickByte.5632e5eaf66a991c8431.png",
-    "static/media/RockPaperScissor.png": "/static/media/RockPaperScissor.aedf6d4addf3e90c9b5b.png",
-    "static/media/PasswordGenerator.png": "/static/media/PasswordGenerator.af79fb194aa35d0635ae.png",
-    "static/media/Questrial-Regular.ttf": "/static/media/Questrial-Regular.8268e81790f4302669b7.ttf",
-    "static/media/WorkDayScheduler.jpeg": "/static/media/WorkDayScheduler.a4aa120b91d915e6a0b5.jpeg",
-    "static/media/UtahLake.jpeg": "/static/media/UtahLake.62e7834ca74b260c8427.jpeg",
-    "static/media/logo.png": "/static/media/logo.bf993c91e9904d6e4989.png",
-    "static/media/LaBelleAurore-Regular.ttf": "/static/media/LaBelleAurore-Regular.bc43b15661f3e942b3f6.ttf",
-    "static/media/Profile.jpeg": "/static/media/Profile.a3c400a8894b0164b291.jpeg",
-    "index.html": "/index.html",
-    "main.a64e0a0b.css.map": "/static/css/main.a64e0a0b.css.map",
-    "main.8541a50f.js.map": "/static/js/main.8541a50f.js.map",
-    "787.541dd9f5.chunk.js.map": "/static/js/787.541dd9f5.chunk.js.map"
+    "main.css": "/REACTPortfolio/static/css/main.97885419.css",
+    "main.js": "/REACTPortfolio/static/js/main.775b6659.js",
+    "static/js/787.541dd9f5.chunk.js": "/REACTPortfolio/static/js/787.541dd9f5.chunk.js",
+    "static/media/Coyote.jpg": "/REACTPortfolio/static/media/Coyote.6ea0b907b91295033a99.jpg",
+    "static/media/QuickByte.png": "/REACTPortfolio/static/media/QuickByte.5632e5eaf66a991c8431.png",
+    "static/media/RockPaperScissor.png": "/REACTPortfolio/static/media/RockPaperScissor.aedf6d4addf3e90c9b5b.png",
+    "static/media/PasswordGenerator.png": "/REACTPortfolio/static/media/PasswordGenerator.af79fb194aa35d0635ae.png",
+    "static/media/Questrial-Regular.ttf": "/REACTPortfolio/static/media/Questrial-Regular.8268e81790f4302669b7.ttf",
+    "static/media/WorkDayScheduler.jpeg": "/REACTPortfolio/static/media/WorkDayScheduler.a4aa120b91d915e6a0b5.jpeg",
+    "static/media/UtahLake.jpeg": "/REACTPortfolio/static/media/UtahLake.62e7834ca74b260c8427.jpeg",
+    "static/media/logo.png": "/REACTPortfolio/static/media/logo.bf993c91e9904d6e4989.png",
+    "static/media/LaBelleAurore-Regular.ttf": "/REACTPortfolio/static/media/LaBelleAurore-Regular.bc43b15661f3e942b3f6.ttf",
+    "static/media/Profile.jpeg": "/REACTPortfolio/static/media/Profile.a3c400a8894b0164b291.jpeg",
+    "index.html": "/REACTPortfolio/index.html",
+    "main.97885419.css.map": "/REACTPortfolio/static/css/main.97885419.css.map",
+    "main.775b6659.js.map": "/REACTPortfolio/static/js/main.775b6659.js.map",
+    "787.541dd9f5.chunk.js.map": "/REACTPortfolio/static/js/787.541dd9f5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a64e0a0b.css",
-    "static/js/main.8541a50f.js"
+    "static/css/main.97885419.css",
+    "static/js/main.775b6659.js"
   ]
 }
