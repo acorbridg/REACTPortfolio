@@ -9,4 +9,4 @@ This project is a final portfolio that contains my resume, contact form, portfol
 * A single project component is used multiple times in the Portfolio section.
 
 Github URL: https://github.com/acorbridg/REACTPortfolio
-Website URL: 
+Website URL: https://acorbridg.github.io/REACTPortfolio/resume
