@@ -6,8 +6,6 @@ const Home = () => {
     return (
         <div className="container home-page">
             <div className="text-zone">
-                <h2> Full Stack Developer</h2>    
-                <Link to="/contact" className='' > CONTACT ME</Link>        
             </div>
         </div>
     )

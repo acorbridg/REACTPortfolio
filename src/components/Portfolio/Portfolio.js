@@ -1,5 +1,5 @@
 import Project1 from '../../assets/images/UtahLake.jpeg';
-import Project2 from '../../assets/images/PasswordGenerator.png';
+import Project2 from '../../assets/images/Screenshot_awesomeschedule.jpg';
 import Project3 from '../../assets/images/WorkDayScheduler.jpeg';
 import Project4 from '../../assets/images/Coyote.jpg';
 import Project5 from '../../assets/images/QuickByte.png';
@@ -21,10 +21,10 @@ const Portfolio = () => {
                 <h2> Project 1: Utah Lake Research with UVU</h2>
                 <h3>Helped with research of the harmful algeal blooms that plague Utah Lake. We were hoping to answer the questions of what was causing the deterioration of the lakes as a natural source for Utah County. </h3>
             </PortfolioRow>
-            <PortfolioRow href='https://github.com/acorbridg/PasswordGeneratorAC'>
+            <PortfolioRow href='https://github.com/RP-LITE/awesome-schedule'>
                 <img src={Project2} alt="profile-picture" />
-                <h2> Project 2: Password Generator</h2>
-                <h3>This project is a password generator that can generate a password between 8-123 characters following user selected criteria. Users are presented with prompts asking if they want numbers, uppercase, lowercase or special character included.</h3>
+                <h2> Project 2: Jot it down</h2>
+                <h3>This project is a client/provider scheduling service. Clients can request appointments and providers can define availability and services. </h3>
             </PortfolioRow>
             <PortfolioRow href='https://github.com/acorbridg/WorkDayScheduler_AC'>
                 <img src={Project3} alt="profile-picture" />
